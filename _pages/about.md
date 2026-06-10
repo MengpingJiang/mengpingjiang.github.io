@@ -15,13 +15,11 @@ Looking forward, we aim to develop a unified computational framework for social 
 
 To address these questions, our laboratory integrates a broad range of experimental and computational techniques, including:
 
-- Quantitative behavioral assays of social interaction and cooperation
-- Multi-animal tracking and machine learning–based behavioral analysis
-- In vivo calcium imaging and fiber photometry in freely moving animals
-- Large-scale electrophysiological recordings
-- Optogenetic and chemogenetic manipulation of neural circuits
-- Computational modeling and neural data analysis
-- Artificial intelligence and multi-agent reinforcement learning
+- **Behavioral neuroscience:** quantitative cooperation paradigms, social interaction assays, and multi-animal tracking
+- **Systems neuroscience:** in vivo calcium imaging, fiber photometry, and large-scale electrophysiological recordings
+- **Circuit manipulation:** optogenetics and chemogenetics
+- **Computational approaches:** neural data analysis, computational modeling, and machine learning
+- **Artificial intelligence:** multi-agent reinforcement learning and biological–AI comparisons
 
 By combining these approaches, we aim to uncover the neural and computational principles that enable social intelligence in both biological and artificial systems.
 ...
