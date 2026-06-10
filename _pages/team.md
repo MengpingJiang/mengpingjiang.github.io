@@ -13,15 +13,19 @@ redirect_from:
 
 <img src="/images/Mengping Jiang.jpeg" width="180">
 
-## Mengping Jiang, Ph.D. 
+## Mengping Jiang, Ph.D.
 
 Assistant Professor
 
-[CV](/files/CV_Jiang_2026.05.08.pdf)  | [Google Scholar](https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=zh-CN) 
+<p>
+  <a href="/files/CV_Jiang_2026.05.08.pdf">CV</a> ·
+  <a href="https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=en">Google Scholar</a>
+</p>
 
-Email: mpjiang2021@163.com
+**Email:** <a href="mailto:mpjiang2021@163.com">mpjiang2021@163.com</a>
 
-Office address:
+**Office Address:** XXXX Building, Room XXX  
+University Name
 
 
 ---
