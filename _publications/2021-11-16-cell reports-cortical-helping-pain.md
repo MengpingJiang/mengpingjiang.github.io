@@ -1,5 +1,5 @@
 ---
-title: "Cortical regulation of helping behaviour towards others in pain"
+title: "Evolution and neural representation of mammalian cooperative behavior"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-11-16-cell reports-cortical-helping-pain
