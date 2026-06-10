@@ -17,7 +17,7 @@ redirect_from:
 
 Assistant Professor
 
-[CV](/files/CV_Jiang_2026.05.08.pdf) 
+[CV](/files/CV_Jiang_2026.05.08.pdf)  | [Google Scholar](https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=zh-CN) 
 
 Email: mpjiang2021@163.com
 
