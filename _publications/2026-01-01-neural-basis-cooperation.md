@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/2026-01-01-neural-basis-cooperation
 excerpt: 'This paper investigates the neural basis of cooperative behavior in biological and artificial intelligence systems.'
+paperurl: 'https://www.science.org/doi/10.1126/science.adw8151'
 date: 2026-01-01
 venue: 'Science'
 citation: 'Mengping Jiang et al. Neural basis of cooperative behavior in biological and artificial intelligence systems.Science391,eadw8151(2026).DOI:10.1126/science.adw8151'
