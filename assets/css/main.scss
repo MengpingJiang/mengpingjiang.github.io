@@ -81,19 +81,25 @@
   width: 100%;
   line-height: 1.65;
 }
-
 .pi-profile {
   display: flex;
   align-items: flex-start;
   gap: 30px;
+  margin-top: 1rem;
   margin-bottom: 2rem;
 }
 
 .pi-photo img {
-  width: 220px;
+  width: 180px;
   border-radius: 6px;
 }
 
 .pi-info {
   flex: 1;
+}
+
+.profile-links a {
+  text-decoration: none;
+  border: none !important;
+  box-shadow: none !important;
 }
