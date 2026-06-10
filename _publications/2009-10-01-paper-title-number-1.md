@@ -2,7 +2,7 @@
 title: "Neural basis of cooperative behavior in biological and artificial intelligence systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-01-neural-basis-cooperation
+permalink: /publications/2026-01-01-neural-basis-cooperation
 excerpt: 'This paper investigates the neural basis of cooperative behavior in biological and artificial intelligence systems.'
 date: 2026-01-01
 venue: 'Science'
