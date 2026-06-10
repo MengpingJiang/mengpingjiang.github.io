@@ -24,8 +24,8 @@ repository               : "mengpingjiang/mengpingjiang.github.io"
 author:
   # Biographic information
   avatar           : "Mengping Jiang.jpeg"
-  name             : "Mengping Jiang， PhD."
-  pronouns         : # example: "Assistant professor"  
+  name             : "Mengping Jiang，PhD"
+  pronouns         :  "Assistant Professor"  
   bio              : "Department of Biomedical Engineering"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
