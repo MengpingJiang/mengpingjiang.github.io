@@ -13,8 +13,4 @@ redirect_from:
 
 ### June 2026
 
-Science paper published.
-
-### May 2026
-
 Lab website launched.
