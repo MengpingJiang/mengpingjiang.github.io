@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "社会与计算神经科学实验室（Laboratory for Social and Computational Neuroscience, LSCN）"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
