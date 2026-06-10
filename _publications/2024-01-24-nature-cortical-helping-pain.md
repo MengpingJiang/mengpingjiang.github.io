@@ -1,7 +1,7 @@
 ---
 title: "Cortical regulation of helping behaviour towards others in pain"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-01-24-nature-cortical-helping-pain
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
