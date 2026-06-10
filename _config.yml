@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : " Social & Computational Neuroscience Lab"
 title_separator          : "-"
 name                     : &name "Mengping Jiang(蒋梦萍）"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Neural mechanisms of cooperation and collective intelligence"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mengpingjiang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
