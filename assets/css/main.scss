@@ -133,3 +133,26 @@
   margin-left: auto !important;
   margin-right: auto !important;
 }
+.lab-title,
+.lab-title:link,
+.lab-title:visited,
+.lab-title:hover,
+.lab-title:active,
+.masthead__menu-item--lg a,
+.masthead__menu-item--lg a:link,
+.masthead__menu-item--lg a:visited,
+.masthead__menu-item--lg a:hover,
+.masthead__menu-item--lg a:active {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+.lab-title::before,
+.lab-title::after,
+.masthead__menu-item--lg a::before,
+.masthead__menu-item--lg a::after {
+  display: none !important;
+  content: none !important;
+}
