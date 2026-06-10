@@ -23,8 +23,8 @@ repository               : "mengpingjiang/mengpingjiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Mengping Jiang(蒋梦萍）.png"
-  name             : "Dr.Mengping Jiang"
+  avatar           : "Mengping Jiang.png"
+  name             : "Mengping Jiang， PhD."
   pronouns         : # example: "Assistant professor"  
   bio              : "Department of Biomedical Engineering"
   location         : "Shanghai"
