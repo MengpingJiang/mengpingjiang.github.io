@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /people/
+permalink: /team/
 author_profile: false
 redirect_from:
   - /resume
@@ -13,24 +13,36 @@ redirect_from:
 
 <img src="/images/Mengping Jiang.jpeg" width="180">
 
-### Mengping Jiang, Ph.D.
+## Mengping Jiang, Ph.D. 
 
 Assistant Professor
+
+[CV](/files/Mengping_Jiang_CV.pdf) 
+
 Email: mpjiang2021@163.com
-Office address
-Research interests include:
-- Cooperation and social decision-making
-- Neural circuit mechanisms of social behavior
-- Biological and artificial intelligence
 
----
+Office address:
 
-## Students
-
-Recruiting
 
 ---
 
 ## Postdoctoral Researchers
 
 Recruiting
+
+---
+
+## Graduate Students
+
+Recruiting
+
+---
+
+## Research Assistants
+
+Recruiting
+
+---
+
+## Alumni
+
