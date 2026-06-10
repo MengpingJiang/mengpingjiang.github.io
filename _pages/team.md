@@ -12,20 +12,32 @@ redirect_from:
 ## Principal Investigator
 
 <img src="/images/Mengping Jiang.jpeg" width="180">
+<div class="pi-profile">
 
-## Mengping Jiang, Ph.D.
+<div class="pi-photo">
+<img src="/images/Mengping_Jiang.jpg" alt="Mengping Jiang">
+</div>
+
+<div class="pi-info">
+
+### Mengping Jiang, Ph.D.
 
 Assistant Professor
 
-<p>
-  <a href="/files/CV_Jiang_2026.05.08.pdf">CV</a> ·
-  <a href="https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=en">Google Scholar</a>
-</p>
+<a href="/files/CV_Jiang_2026.05.08.pdf">CV</a> ·
+<a href="https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=en">Google Scholar</a>
 
-**Email:** <a href="mailto:mpjiang2021@163.com">mpjiang2021@163.com</a>
+<br><br>
 
-**Office Address:** XXXX Building, Room XXX  
-University Name
+**Email:** mpjiang2021@163.com
+
+**Office Address:**  
+XXX Building, Room XXX
+
+</div>
+
+</div>
+
 
 
 ---
