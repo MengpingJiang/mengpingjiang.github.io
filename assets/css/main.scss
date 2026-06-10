@@ -81,6 +81,7 @@
   width: 100%;
   line-height: 1.65;
 }
+
 .pi-profile {
   display: flex;
   align-items: flex-start;
@@ -90,12 +91,17 @@
 }
 
 .pi-photo img {
-  width: 180px;
+  width: 160px;
   border-radius: 6px;
 }
 
 .pi-info {
   flex: 1;
+}
+
+.pi-info h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }
 
 .profile-links a {
