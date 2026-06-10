@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "People"
+title: 
 permalink: /people/
 author_profile: false
 redirect_from:
@@ -11,16 +11,17 @@ redirect_from:
 
 ## Principal Investigator
 
+<img src="/images/Mengping Jiang.jpeg" width="180">
+
 ### Mengping Jiang, Ph.D.
 
-Assistant Professor (anticipated)
-
-Research interests:
-
-- Social behavior
-- Cooperation
-- Collective intelligence
-- AI and neuroscience
+Assistant Professor
+Email: mpjiang2021@163.com
+Office address
+Research interests include:
+- Cooperation and social decision-making
+- Neural circuit mechanisms of social behavior
+- Biological and artificial intelligence
 
 ---
 
