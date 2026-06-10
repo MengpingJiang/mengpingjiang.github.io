@@ -2,8 +2,8 @@
 title: "Neural basis of cooperative behavior in biological and artificial intelligence systems"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2026-01-01-neural-basis-cooperation
+excerpt: 'This paper investigates the neural basis of cooperative behavior in biological and artificial intelligence systems.'
 date: 2026-01-01
 venue: 'Science'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
