@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Oxytocin-mediated empathy internally facilitates cooperative behaviors in rats"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+category: joiurnal
+permalink: /publication/2025-10-30-Science Bulletin-Oxytocin
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927325008734'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
