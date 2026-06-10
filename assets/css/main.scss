@@ -41,6 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ===== Navigation / Lab title ===== */
+
 .lab-title {
   display: flex !important;
   align-items: center;
@@ -49,14 +51,25 @@
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  background-image: none !important;
   line-height: 1.15;
   font-size: 1.1rem;
 }
 
-.lab-title:hover {
+.lab-title:hover,
+.lab-title:link,
+.lab-title:visited,
+.lab-title:active {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  background-image: none !important;
+}
+
+.lab-title::before,
+.lab-title::after {
+  display: none !important;
+  content: none !important;
 }
 
 .lab-logo {
@@ -65,41 +78,82 @@
   flex-shrink: 0;
 }
 
+.masthead {
+  border-bottom: none !important;
+}
+
 .masthead__menu-item--lg {
   min-width: 560px;
   line-height: 1.1;
   border-bottom: none !important;
 }
 
-.masthead__menu-item--lg a {
+.masthead__menu-item--lg a,
+.masthead__menu-item--lg a:link,
+.masthead__menu-item--lg a:visited,
+.masthead__menu-item--lg a:hover,
+.masthead__menu-item--lg a:active {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
+  background-image: none !important;
 }
 
-.masthead {
-  border-bottom: none !important;
+.masthead__menu-item--lg a::before,
+.masthead__menu-item--lg a::after {
+  display: none !important;
+  content: none !important;
 }
 
-/* Wider homepage text area */
-.page {
+
+/* ===== Unified content width ===== */
+
+.initial-content {
   width: 100% !important;
-  max-width: 980px !important;
-  margin: 0 auto !important;
+  max-width: none !important;
+}
+
+.page,
+.archive,
+.initial-content .page {
   float: none !important;
-}
-
-.page__inner-wrap {
   width: 100% !important;
   max-width: 980px !important;
-  margin: 0 auto !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
 }
+
+.page__inner-wrap,
+.initial-content .page__inner-wrap {
+  width: 100% !important;
+  max-width: 980px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.archive__item,
+.archive .list__item {
+  margin-left: 0 !important;
+}
+
+.sidebar {
+  display: none !important;
+}
+
+
+/* ===== Homepage text ===== */
 
 .home-intro {
   text-align: justify;
   width: 100%;
   line-height: 1.65;
 }
+
+
+/* ===== Team page / PI profile ===== */
+
 .pi-profile {
   display: flex;
   align-items: flex-start;
@@ -126,84 +180,5 @@
   text-decoration: none;
   border: none !important;
   box-shadow: none !important;
-}
-.archive {
-  width: 100% !important;
-  max-width: 980px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-.lab-title,
-.lab-title:link,
-.lab-title:visited,
-.lab-title:hover,
-.lab-title:active,
-.masthead__menu-item--lg a,
-.masthead__menu-item--lg a:link,
-.masthead__menu-item--lg a:visited,
-.masthead__menu-item--lg a:hover,
-.masthead__menu-item--lg a:active {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
   background-image: none !important;
-}
-
-.lab-title::before,
-.lab-title::after,
-.masthead__menu-item--lg a::before,
-.masthead__menu-item--lg a::after {
-  display: none !important;
-  content: none !important;
-}
-
-/* Center homepage/content area */
-.page {
-  float: none !important;
-  width: 100% !important;
-  max-width: 980px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
-
-.page__inner-wrap {
-  width: 100% !important;
-  max-width: 980px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-.sidebar {
-  display: none !important;
-}
-/* Force center main content */
-.initial-content {
-  width: 100% !important;
-  max-width: none !important;
-}
-
-.initial-content .page {
-  float: none !important;
-  width: 100% !important;
-  max-width: 980px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-
-.initial-content .page__inner-wrap {
-  width: 100% !important;
-  max-width: 980px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-.archive__item {
-  margin-left: 0 !important;
-}
-
-.archive .list__item {
-  margin-left: 0 !important;
 }
