@@ -17,7 +17,7 @@ redirect_from:
 
 Assistant Professor
 
-[CV](/files/Mengping_Jiang_CV.pdf) 
+[CV](/files/CV_Jiang_2026.05.08.pdf) 
 
 Email: mpjiang2021@163.com
 
