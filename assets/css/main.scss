@@ -156,3 +156,24 @@
   display: none !important;
   content: none !important;
 }
+/* Center homepage/content area */
+.page {
+  float: none !important;
+  width: 100% !important;
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.page__inner-wrap {
+  width: 100% !important;
+  max-width: 1100px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.sidebar {
+  display: none !important;
+}
