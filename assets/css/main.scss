@@ -69,12 +69,14 @@
 .page {
   width: 100% !important;
   max-width: 1200px !important;
+  margin: 0 auto !important;
+  float: none !important;
 }
 
 .page__inner-wrap {
   width: 100% !important;
   max-width: 1100px !important;
-  margin: 0 auto;
+  margin: 0 auto !important;
 }
 
 .home-intro {
