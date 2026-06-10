@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: 
 permalink: /join/
 author_profile: false
