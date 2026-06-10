@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.lab-title {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+  white-space: normal;
+  text-decoration: none;
+}
+
+.lab-title-en {
+  font-size: 0.90em;
+  font-weight: 600;
+}
+
+.lab-title-cn {
+  font-size: 0.75em;
+  font-weight: 400;
+}
+.masthead__menu-item--lg {
+  min-width: 420px;
+  line-height: 1.1;
+}
