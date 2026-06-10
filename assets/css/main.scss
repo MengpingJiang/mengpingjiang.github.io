@@ -50,11 +50,10 @@
   border-bottom: none !important;
   box-shadow: none !important;
   line-height: 1.15;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 
 .lab-title:hover {
-font-size: 1.15rem;
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
@@ -78,10 +77,10 @@ font-size: 1.15rem;
   box-shadow: none !important;
 }
 
-.home-intro {
-  text-align: justify;
-  width: 100%;
+.masthead {
+  border-bottom: none !important;
 }
+
 /* Wider homepage text area */
 .page {
   width: 100% !important;
@@ -101,7 +100,6 @@ font-size: 1.15rem;
   width: 100%;
   line-height: 1.65;
 }
-
 .pi-profile {
   display: flex;
   align-items: flex-start;
