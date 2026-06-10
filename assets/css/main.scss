@@ -42,17 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 .lab-title {
-  display: block !important;
+  display: flex !important;
+  align-items: center;
+  gap: 12px;
   white-space: normal !important;
-  line-height: 1.15 !important;
   text-decoration: none;
+  line-height: 1.15;
 }
 
-.lab-title br {
-  display: block;
+.lab-logo {
+  height: 55px;
+  width: auto;
+  flex-shrink: 0;
 }
 
 .masthead__menu-item--lg {
-  min-width: 420px;
+  min-width: 520px;
   line-height: 1.1;
 }
