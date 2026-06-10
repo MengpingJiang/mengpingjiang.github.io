@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="home-intro">
-  
+<div class="home-intro" markdown="1">
+
 The Social and Computational Neuroscience Laboratory (LSCN) seeks to understand how the brain enables complex social behaviors, with a particular focus on cooperation, coordination, competition, and prosocial decision-making. Our research combines systems neuroscience, behavioral analysis, and computational approaches to uncover the neural computations that allow individuals to interact, communicate, and achieve shared goals.
 
 A central goal of the lab is to identify the neural circuit mechanisms that support cooperative behavior across different social contexts and species. We are interested in how animals decide whether to act alone, cooperate, or compete; how social partners coordinate their actions in real time; and how these processes emerge from distributed brain networks. We further investigate how social information is represented, integrated, and transformed into adaptive behavioral strategies.
