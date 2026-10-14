@@ -5,7 +5,6 @@
     {% if post.authors_html %}<p class="lscn-authors">{{ post.authors_html }}</p>{% endif %}
     <p class="lscn-publication-meta"><strong>{{ post.venue }}</strong> · {{ post.date | date: "%Y" }}{% if post.bibliography %} · {{ post.bibliography }}{% endif %}</p>
     {% if post.author_notes %}<p class="lscn-author-notes">{{ post.author_notes }}</p>{% endif %}
-    {% if post.excerpt %}<div>{{ post.excerpt | markdownify }}</div>{% endif %}
     <p><a href="{{ post.paperurl }}">Read article ↗</a>{% if post.doi %} · <a href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %} · <a href="{{ post.url | relative_url }}">Publication details</a></p>
   </div>
   {% if post.first_figure %}
