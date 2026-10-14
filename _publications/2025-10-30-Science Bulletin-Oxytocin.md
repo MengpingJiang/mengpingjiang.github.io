@@ -6,7 +6,7 @@ permalink: /publication/2025-10-30-Science Bulletin-Oxytocin
 date: 2025-10-30
 venue: 'Science Bulletin'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927325008734'
-first_figure: "/images/publications/bulletin-figure1.webp"
+first_figure: "/images/publications/bulletin-panel-a.webp"
 ---
 
 

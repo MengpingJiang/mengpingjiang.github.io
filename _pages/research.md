@@ -46,11 +46,9 @@ We aim to understand how observing another individual's actions and outcomes cha
 
 Our interests include observational learning, imitation, and the integration of personal experience with social information. We seek to distinguish learning about actions, outcomes, and rules, and identify the neural computations that support each process.
 
-## Cross-Cutting Directions
-
 <span id="cross-system-intelligence" class="lscn-anchor"></span>
 
-### Social Intelligence Across Biological and Artificial Systems
+### 4. Social Intelligence Across Biological and Artificial Systems
 
 **Which principles of social computation generalize across animals and artificial agents?**
 
@@ -60,7 +58,7 @@ Future animal–AI studies may use embodied artificial partners, including robot
 
 <span id="social-dysfunction" class="lscn-anchor"></span>
 
-### Social Dysfunction & Intervention
+### 5. Social Dysfunction & Intervention
 
 **How do social abilities become disrupted, and which experiences or interventions support recovery?**
 

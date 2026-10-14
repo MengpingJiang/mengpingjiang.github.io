@@ -8,10 +8,9 @@
   </div>
   {% if post.first_figure %}
   <figure>
-    <a href="{{ post.first_figure | relative_url }}" aria-label="View full Figure 1 from {{ post.title | escape }}">
-      <img src="{{ post.first_figure | relative_url }}" alt="Figure 1 from {{ post.title | escape }}" loading="lazy">
+    <a href="{{ post.first_figure | relative_url }}" aria-label="View illustration from {{ post.title | escape }}">
+      <img src="{{ post.first_figure | relative_url }}" alt="Illustration from {{ post.title | escape }}" loading="lazy">
     </a>
-    <figcaption>Figure 1 · {{ post.venue }} ({{ post.date | date: "%Y" }}) · Click to enlarge</figcaption>
   </figure>
   {% endif %}
 </article>

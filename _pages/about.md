@@ -13,7 +13,7 @@ redirect_from:
 <div>
 <p class="lscn-eyebrow">Shanghai Jiao Tong University</p>
 <h1>Laboratory for Social and Computational Neuroscience <span class="lscn-abbreviation">(LSCN)</span></h1>
-<p class="lscn-chinese-title" lang="zh-CN">社会与计算神经科学实验室</p>
+<p class="lscn-chinese-title" lang="zh-CN"><strong>社会与计算神经科学实验室</strong></p>
 <p class="lscn-lead">Understanding how individuals interact, cooperate, and learn from others.</p>
 
 <div class="lscn-actions"><a class="lscn-button" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">↗</span></a><a class="lscn-textlink" href="{{ '/join/' | relative_url }}">Join the lab →</a></div>
