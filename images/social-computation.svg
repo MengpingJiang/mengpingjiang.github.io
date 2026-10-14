@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" role="img" aria-labelledby="title desc">
+<title id="title">From social interaction to neural computation</title><desc id="desc">Two interacting rodents, neural population activity, and a computational model are connected across three levels of analysis. All traces are schematic.</desc>
+<rect width="520" height="460" rx="25" fill="#edf4f1"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#173f46">
+<text x="30" y="39" font-size="12" letter-spacing="1.8" fill="#397b71">SOCIAL INTERACTION</text>
+<g stroke="#173f46" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(157 108)"><path d="M-30 12C-62 5-65 33-38 31" fill="none"/><path d="M-33 5C-39-17-19-28 4-17L28-4Q42 3 27 13L-4 22Q-30 29-33 5Z" fill="#fffdf8"/><circle cx="4" cy="-18" r="10" fill="#dfbca5"/><circle cx="25" cy="-2" r="2.5" fill="#173f46" stroke="none"/><path d="m-12 23-7 6m21-8 7 5" fill="none"/></g><g transform="translate(372 108) scale(-1 1)"><path d="M-30 12C-62 5-65 33-38 31" fill="none"/><path d="M-33 5C-39-17-19-28 4-17L28-4Q42 3 27 13L-4 22Q-30 29-33 5Z" fill="#fffdf8"/><circle cx="4" cy="-18" r="10" fill="#dfbca5"/><circle cx="25" cy="-2" r="2.5" fill="#173f46" stroke="none"/><path d="m-12 23-7 6m21-8 7 5" fill="none"/></g></g>
+<path d="M195 91Q261 60 327 91" fill="none" stroke="#397b71" stroke-width="2" stroke-dasharray="4 6"/>
+<rect x="239" y="92" width="42" height="40" rx="9" fill="#d1e4dc"/><circle cx="249" cy="109" r="5" fill="#bd805d"/><circle cx="271" cy="109" r="5" fill="#bd805d"/>
+<text x="260" y="152" text-anchor="middle" font-size="11" fill="#397b71">Partner information · coordinated action</text>
+<path d="M260 164v18m-5-5 5 5 5-5" fill="none" stroke="#7ca99a" stroke-width="2"/>
+<rect x="24" y="190" width="472" height="112" rx="15" fill="#fffdf8"/>
+<text x="43" y="214" font-size="12" letter-spacing="1.8" fill="#397b71">NEURAL POPULATION ACTIVITY</text>
+<g stroke="#92b8aa" stroke-width="1.7"><path d="m63 260 39-26 42 16 36-22m-117 32 42 23 39-33m-42-16 3 49 75-55m-36 22 36 47-75-14"/></g>
+<g fill="#397b71"><circle cx="63" cy="260" r="6"/><circle cx="102" cy="234" r="7"/><circle cx="144" cy="250" r="6"/><circle cx="180" cy="228" r="5"/><circle cx="105" cy="283" r="5"/><circle cx="180" cy="297" r="5"/></g>
+<g fill="none" stroke-width="1.7"><path d="M222 245h21l5-10 5 22 5-12h21l5-11 5 21 5-10h38l5-7 5 14 5-7h27l5-12 5 23 5-11h29" stroke="#397b71"/><path d="M222 268h30l5-8 5 17 5-9h26l5-11 5 23 5-12h34l5-9 5 17 5-8h45l5-10 5 22 5-12h9" stroke="#bd805d"/><path d="M222 286h216" stroke="#d1e4dc"/></g>
+<path d="M260 314v17m-5-5 5 5 5-5" fill="none" stroke="#7ca99a" stroke-width="2"/>
+<text x="30" y="356" font-size="12" letter-spacing="1.8" fill="#397b71">COMPUTATIONAL PRINCIPLES</text>
+<g fill="none" stroke="#397b71" stroke-width="1.8"><path d="m51 427v-52m0 52h125"/><path d="M63 416C79 416 92 389 109 398S142 405 166 381"/><path d="m158 382 8-1-2 8"/></g>
+<text x="107" y="448" text-anchor="middle" font-size="10">Neural dynamics</text>
+<g stroke="#92b8aa" stroke-width="1.8"><path d="m242 382 43 16 43-16m-86 16 43-16 43 31m-86 17 43-32 43 16"/></g>
+<g fill="#397b71"><circle cx="242" cy="382" r="5"/><circle cx="242" cy="398" r="5"/><circle cx="242" cy="430" r="5"/><circle cx="285" cy="382" r="5"/><circle cx="285" cy="398" r="5"/><circle cx="328" cy="382" r="5"/><circle cx="328" cy="413" r="5"/></g>
+<text x="285" y="448" text-anchor="middle" font-size="10">Partner models</text>
+<path d="M398 389h60v37h-60Z" rx="6" fill="#d1e4dc"/><circle cx="414" cy="406" r="4" fill="#397b71"/><circle cx="442" cy="406" r="4" fill="#397b71"/><path d="M421 417h14m-7-28v-11" stroke="#397b71" stroke-width="2"/>
+<text x="428" y="448" text-anchor="middle" font-size="10">Adaptive agents</text>
+</g></svg>

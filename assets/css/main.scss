@@ -195,7 +195,7 @@
 .lscn-site a:focus-visible,.lscn-topicnav a:focus-visible { outline:3px solid #cc8663; outline-offset:5px; }
 .lscn-hero { display:grid; grid-template-columns:1.2fr 1fr; gap:40px; align-items:center; padding:54px 0 60px; }
 .lscn-eyebrow { font-size:.65rem; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--lab-accent); margin:0 0 16px; }
-.lscn-hero h1 { font-family:Georgia,serif; font-size:clamp(2rem,4.4vw,3.4rem); font-weight:400; line-height:1.09; margin:0 0 24px; letter-spacing:-.035em; }
+.lscn-hero h1 { font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif; font-size:clamp(2rem,4.4vw,3.4rem); font-weight:400; line-height:1.09; margin:0 0 24px; letter-spacing:-.035em; }
 .lscn-hero h1 em { color:var(--lab-accent); font-weight:400; }
 .lscn-lead { font-size:1rem; line-height:1.6; max-width:500px; }
 .lscn-labname { font-size:.65rem; line-height:1.8; opacity:.8; }
@@ -207,7 +207,7 @@
 .lscn-hero-art img { width:100%; height:auto; display:block; }
 .lscn-hero-art figcaption { text-align:center; font-size:.6rem; margin-top:12px; opacity:.7; }
 .lscn-section { padding:48px 0; border-top:1px solid var(--lab-border); }
-.lscn-section h2,.lscn-join h2 { font-family:Georgia,serif; font-weight:400; font-size:1.7rem; margin:0 0 20px; line-height:1.25; }
+.lscn-section h2,.lscn-join h2 { font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif; font-weight:400; font-size:1.7rem; margin:0 0 20px; line-height:1.25; }
 .lscn-intro { max-width:780px; font-size:.85rem; line-height:1.7; margin-bottom:30px; }
 .lscn-cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:20px; }
 .lscn-site .lscn-card { display:flex; flex-direction:column; color:inherit; border:1px solid var(--lab-border); border-radius:12px; overflow:hidden; transition:transform .2s,border-color .2s; }
@@ -228,7 +228,7 @@
 .lscn-section-heading>a { font-size:.7rem; }
 .lscn-site .lscn-paper { display:grid; grid-template-columns:140px 1fr 20px; gap:25px; align-items:start; color:inherit; padding:25px 0; border-top:1px solid var(--lab-border); }
 .lscn-paper:hover h3 { color:var(--lab-accent); }
-.lscn-journal { font-family:Georgia,serif; font-size:1rem; color:var(--lab-accent); }
+.lscn-journal { font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif; font-size:1rem; color:var(--lab-accent); }
 .lscn-journal small { display:block; font-family:Arial,sans-serif; font-size:.65rem; margin-top:7px; }
 .lscn-paper h3 { margin:0 0 9px; font-size:.9rem; line-height:1.5; }
 .lscn-paper p { font-size:.7rem; margin:0; line-height:1.6; }
@@ -272,3 +272,40 @@ html[data-theme="dark"] .lscn-site .lscn-button { background:#a8d0c2; color:#162
  .lscn-section-heading { align-items:flex-start; flex-direction:column; margin-bottom:20px; }
 }
 @media(prefers-reduced-motion:reduce) { .lscn-card { transition:none !important; } .lscn-card:hover { transform:none; } }
+
+/* Unified typography and sage/teal palette throughout the lab website. */
+:root { --lab-ink:#173f46; --lab-accent:#397b71; --lab-soft:#edf4f1; --lab-border:#d5e2dd; --lab-body:#30484b; --lab-surface:#fff; }
+html[data-theme="dark"] { --lab-ink:#e1ede8; --lab-accent:#9acbbc; --lab-soft:#1d3234; --lab-border:#3a5554; --lab-body:#cadad4; --lab-surface:#152529; }
+body { font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif; color:var(--lab-body); background:var(--lab-surface); }
+h1,h2,h3,h4,h5,h6,p,a,li,button,input,textarea,select,figcaption,blockquote,table { font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Arial, "Helvetica Neue", "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif; }
+h1,h2,h3,h4,h5,h6,.page__title,.archive__item-title { color:var(--lab-ink); }
+a,a:visited { color:var(--lab-accent); }
+a:hover { color:var(--lab-ink); }
+.masthead,.greedy-nav { background:var(--lab-surface); }
+.greedy-nav a,.greedy-nav a:visited { color:var(--lab-ink); }
+.greedy-nav .visible-links a:before { background:var(--lab-accent); }
+.greedy-nav .hidden-links { background:var(--lab-surface); border-color:var(--lab-border); }
+.greedy-nav button,.navicon,.navicon:before,.navicon:after { background-color:var(--lab-accent); }
+.lab-title { letter-spacing:.04em; font-weight:700; }
+.lab-title small { letter-spacing:.025em; }
+.lscn-hero h1 { font-size:clamp(1.7rem,3.1vw,2.4rem); line-height:1.2; font-weight:600; letter-spacing:-.025em; }
+.lscn-title-accent { color:var(--lab-accent); }
+.lscn-hero-art { max-width:500px; }
+.lscn-hero-art figcaption { line-height:1.5; }
+.page__content h2 { border-bottom-color:var(--lab-border); }
+.page__content>h2 { margin-top:2.2em; padding-bottom:.5em; color:var(--lab-ink); }
+.page__content>h3 { color:var(--lab-accent); }
+.page__content>p,.page__content>ul,.page__content>ol { line-height:1.75; }
+.page__title { padding-bottom:.55em; border-bottom:1px solid var(--lab-border); margin-bottom:1em; }
+.archive__item { border-bottom:1px solid var(--lab-border); padding:18px 0; }
+.archive__item p,.page__meta,.page__date { color:var(--lab-body); }
+.page__footer { background:var(--lab-soft); color:var(--lab-body); border-top:1px solid var(--lab-border); }
+.page__footer a,.page__footer a:visited { color:var(--lab-accent); }
+.pi-profile { background:var(--lab-soft); border:1px solid var(--lab-border); border-radius:14px; padding:28px; }
+.lscn-topicnav a { border-color:var(--lab-border); background:var(--lab-soft); color:var(--lab-accent); }
+.lscn-topicnav a:hover { border-color:var(--lab-accent); }
+.lscn-contact-panel { padding:24px 28px; border:1px solid var(--lab-border); border-radius:12px; background:var(--lab-soft); margin-top:35px; }
+.lscn-contact-panel h2 { margin-top:0; border:0; }
+.lscn-contact-panel p:last-child { margin-bottom:0; }
+a:focus-visible { outline:3px solid #bd805d; outline-offset:4px; }
+@media(max-width:600px) { .pi-profile { flex-direction:column; padding:22px; } .lscn-contact-panel { padding:22px; } }

@@ -36,4 +36,15 @@ Interested applicants should send:
 - a summary of your current and future research interests
 - Contact information for references (three references)
   
-to mpjiang2021@163.com
+to [mpjiang2021@163.com](mailto:mpjiang2021@163.com)
+
+<div class="lscn-contact-panel" markdown="1">
+
+## Contact & Collaboration
+
+For research collaborations and general inquiries, please contact **Mengping Jiang, Ph.D.**
+
+[mpjiang2021@163.com](mailto:mpjiang2021@163.com)  
+Shanghai Jiao Tong University · Shanghai, China
+
+</div>
