@@ -9,20 +9,29 @@ redirect_from:
 ---
 <div class="home-intro" markdown="1">
 
-The Social and Computational Neuroscience Laboratory (LSCN) seeks to understand how the brain enables complex social behaviors, with a particular focus on cooperation, coordination, competition, and prosocial decision-making. Our research combines systems neuroscience, behavioral analysis, and computational approaches to uncover the neural computations that allow individuals to interact, communicate, and achieve shared goals.
+## Understanding Social Behavior. Exploring Social Intelligence.
 
-A central goal of the lab is to identify the neural circuit mechanisms that support cooperative behavior across different social contexts and species. We are interested in how animals decide whether to act alone, cooperate, or compete; how social partners coordinate their actions in real time; and how these processes emerge from distributed brain networks. We further investigate how social information is represented, integrated, and transformed into adaptive behavioral strategies.
+The **Social and Computational Neuroscience Laboratory (LSCN)** studies the neural and computational mechanisms of social behavior and social intelligence. We ask how individuals engage with others, coordinate their actions, and learn from social experience.
 
-Looking forward, we aim to develop a unified computational framework for social decision-making that bridges biological and artificial intelligence systems. By studying both animal and AI agents, we seek to uncover general principles that govern cooperation, collective behavior, and social learning. We are also interested in understanding how disruptions of these mechanisms contribute to social deficits in neurodevelopmental and psychiatric disorders.
+Building on our research in mammalian cooperation, we connect quantitative animal behavior, neural circuit analysis, and computational modeling. Our long-term research spans three complementary themes:
 
-To address these questions, our laboratory integrates a broad range of experimental and computational techniques, including:
+### Cooperation & Social Coordination
+How do individuals choose to cooperate, predict their partners, and coordinate their actions to achieve shared goals?
 
-- **Behavioral neuroscience:** quantitative cooperation paradigms, social interaction assays, and multi-animal tracking
-- **Systems neuroscience:** in vivo calcium imaging, fiber photometry, and large-scale electrophysiological recordings
-- **Circuit manipulation:** optogenetics and chemogenetics
-- **Computational approaches:** neural data analysis, computational modeling, and machine learning
-- **Artificial intelligence:** multi-agent reinforcement learning and biological–AI comparisons
+### Group Behavior & Collective Dynamics
+How do individual needs and social interactions give rise to group formation, huddling, and collective adaptation?
 
-By combining these approaches, we aim to uncover the neural and computational principles that enable social intelligence in both biological and artificial systems.
+### Social Learning & Adaptation
+How do individuals learn from observing others and adapt their behavior to new partners and social contexts?
+
+[Explore our research]({{ '/research/' | relative_url }})
+
+### Connecting Mechanisms, Intelligence & Health
+
+We aim to extend these themes across **biological and artificial systems**, including AI–AI and animal–AI interaction, to understand and build adaptive social intelligence. We also seek to investigate **social dysfunction and intervention**: how social abilities are disrupted in neurodevelopmental and psychiatric disorders, and how social experience can support resilience and recovery.
+
+Our approaches include multi-animal tracking, calcium imaging, fiber photometry, large-scale electrophysiology, optogenetics, chemogenetics, computational modeling, and multi-agent reinforcement learning.
+
+[Meet the team]({{ '/team/' | relative_url }}) · [Selected publications]({{ '/publications/' | relative_url }}) · [Join us]({{ '/join/' | relative_url }})
 
 </div>
