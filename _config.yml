@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "Mengping Jiang.jpeg"
   name             : "Mengping Jiang，PhD"
-  pronouns         :  "Associate Professor"  
-  bio              : "Department of Biomedical Engineering"
+  pronouns         :  "Assistant Professor"  
+  bio              : "School of Biomedical Engineering"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "MengpingJiang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -86,6 +86,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  reviews:
+    title: 'Reviews'
   manuscripts:
     title: 'Research Articles'    
   conferences:

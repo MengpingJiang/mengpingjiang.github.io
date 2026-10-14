@@ -1,64 +1,39 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Mengping Jiang — Curriculum Vitae"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**Mengping Jiang, Ph.D. · 蒋梦萍**  
+Assistant Professor, School of Biomedical Engineering  
+Shanghai Jiao Tong University, Shanghai, China  
+[mpjiang2021@163.com](mailto:mpjiang2021@163.com)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Google Scholar](https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8875-7563) · [PDF CV — May 2026 version]({{ '/files/CV_Jiang_2026.05.08.pdf' | relative_url }})
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Appointments
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **2026–present:** Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University.
+- **2022–2026:** Postdoctoral Scholar, Department of Neurobiology, University of California, Los Angeles. Supervisor: Weizhe Hong.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **2021:** Ph.D., Institute of Neuroscience, Chinese Academy of Sciences.
+
+## Research Interests
+
+Neural and computational mechanisms of cooperation and social coordination; group behavior; social learning; social intelligence across biological and artificial systems; social dysfunction and intervention.
+
+## Selected Support & Training
+
+- Marion Bowen Neurobiology Postdoctoral Scholar Grant, UCLA, 2025–2026.
+- Neuropixels / OpenScope workshop training.
+
+## Publications
+
+See the [publication list]({{ '/publications/' | relative_url }}) for authors, publication details, and DOI links.
+
+[Return to Team]({{ '/team/' | relative_url }})
