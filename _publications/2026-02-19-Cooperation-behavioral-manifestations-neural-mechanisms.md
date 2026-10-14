@@ -6,6 +6,7 @@ permalink: /publication/2026-02-19
 date: 2026-02-19
 venue: 'Current Opinion in Neurobiology'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0959438826000139'
+first_figure: "/images/publications/review-figure1.webp"
 ---
 
 

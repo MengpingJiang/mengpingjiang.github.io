@@ -11,13 +11,14 @@ redirect_from:
 <div class="lscn-site">
 <section class="lscn-hero">
 <div>
-<p class="lscn-eyebrow">JIANG LAB · Shanghai Jiao Tong University</p>
-<h1>The Neural and Computational Basis of <span class="lscn-title-accent">Social Intelligence</span></h1>
+<p class="lscn-eyebrow">Shanghai Jiao Tong University</p>
+<h1>Laboratory for Social and Computational Neuroscience <span class="lscn-abbreviation">(LSCN)</span></h1>
+<p class="lscn-chinese-title" lang="zh-CN">社会与计算神经科学实验室</p>
 <p class="lscn-lead">Understanding how individuals interact, cooperate, and learn from others.</p>
-<p class="lscn-labname">Laboratory for Social and Computational Neuroscience · LSCN<br>社会与计算神经科学实验室</p>
+
 <div class="lscn-actions"><a class="lscn-button" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">↗</span></a><a class="lscn-textlink" href="{{ '/join/' | relative_url }}">Join the lab →</a></div>
 </div>
-<figure class="lscn-hero-art"><img src="{{ '/images/social-computation.svg' | relative_url }}" alt="Three levels of analysis: rodent social interaction, neural population activity, and computational principles" width="520" height="460" loading="eager"><figcaption>Social interaction · neural activity · computational principles.</figcaption></figure>
+<figure class="lscn-hero-art"><h2 class="lscn-figure-title">The Neural and Computational Basis of <span class="lscn-title-accent">Social Intelligence</span></h2><img src="{{ '/images/social-computation.svg' | relative_url }}" alt="Three levels of analysis: rodent social interaction, neural population activity, and computational principles" width="520" height="460" loading="eager"><figcaption>Social interaction · neural activity · computational principles.</figcaption></figure>
 </section>
 <section class="lscn-section">
 <p class="lscn-eyebrow">Our questions</p><h2>How does the brain make social life possible?</h2>

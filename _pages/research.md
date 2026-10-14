@@ -9,9 +9,9 @@ We study how neural circuits and computations enable individuals to interact, co
 
 <nav class="lscn-topicnav" aria-label="Research themes"><a href="#cooperation">Cooperation</a><a href="#group-dynamics">Group dynamics</a><a href="#social-learning">Social learning</a><a href="#cross-system-intelligence">Biological + AI</a><a href="#social-dysfunction">Social dysfunction</a></nav>
 
-## Core Research Themes
+## Research Interests
 
-<div class="lscn-research-art" id="cooperation"><img src="{{ '/images/research-cooperation.svg' | relative_url }}" alt="Two rodents coordinating their actions" width="440" height="300" loading="lazy"></div>
+<span id="cooperation" class="lscn-anchor"></span>
 
 ### 1. Cooperation & Social Coordination
 
@@ -26,7 +26,7 @@ Key questions include how partner reliability, rewards, and effort shape coopera
 - [Evolution and neural representation of mammalian cooperative behavior — *Cell Reports*, 2021](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01511-4)
 - [Neural basis of cooperative behavior in biological and artificial intelligence systems — *Science*, 2026](https://www.science.org/doi/10.1126/science.adw8151)
 
-<div class="lscn-research-art" id="group-dynamics"><img src="{{ '/images/research-group.svg' | relative_url }}" alt="A group of huddling rodents" width="440" height="300" loading="lazy"></div>
+<span id="group-dynamics" class="lscn-anchor"></span>
 
 ### 2. Group Behavior & Collective Dynamics
 
@@ -36,7 +36,7 @@ We aim to investigate the neural mechanisms of group formation and collective ad
 
 This direction connects individual neural activity with group dynamics. Future studies will examine how changes in one member's state affect the wider group, while distinguishing social influences from thermoregulation, physical contact, and shared environmental conditions.
 
-<div class="lscn-research-art" id="social-learning"><img src="{{ '/images/research-learning.svg' | relative_url }}" alt="An observer rodent and a demonstrator" width="440" height="300" loading="lazy"></div>
+<span id="social-learning" class="lscn-anchor"></span>
 
 ### 3. Social Learning & Adaptation
 

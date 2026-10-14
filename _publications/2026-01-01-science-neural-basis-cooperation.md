@@ -6,5 +6,6 @@ permalink: /publications/2026-01-01-science-neural-basis-cooperation
 paperurl: 'https://www.science.org/doi/10.1126/science.adw8151'
 date: 2026-01-01
 venue: 'Science'
+first_figure: "/images/publications/science-figure1.webp"
 ---
 

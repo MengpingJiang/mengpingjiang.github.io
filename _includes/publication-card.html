@@ -1,0 +1,17 @@
+{% include base_path %}
+<article class="lscn-publication" itemscope itemtype="https://schema.org/ScholarlyArticle">
+  <div class="lscn-publication-info">
+    <h2 itemprop="headline"><a href="{{ post.paperurl | default: post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="lscn-publication-meta"><strong>{{ post.venue }}</strong> · {{ post.date | date: "%Y" }}</p>
+    {% if post.excerpt %}<div>{{ post.excerpt | markdownify }}</div>{% endif %}
+    <p><a href="{{ post.paperurl }}">Read article ↗</a> · <a href="{{ post.url | relative_url }}">Publication details</a></p>
+  </div>
+  {% if post.first_figure %}
+  <figure>
+    <a href="{{ post.first_figure | relative_url }}" aria-label="View full Figure 1 from {{ post.title | escape }}">
+      <img src="{{ post.first_figure | relative_url }}" alt="Figure 1 from {{ post.title | escape }}" loading="lazy">
+    </a>
+    <figcaption>Figure 1 · {{ post.venue }} ({{ post.date | date: "%Y" }}) · Click to enlarge</figcaption>
+  </figure>
+  {% endif %}
+</article>
