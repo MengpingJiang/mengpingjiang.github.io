@@ -18,7 +18,7 @@ redirect_from:
 
 <div class="lscn-actions"><a class="lscn-button" href="{{ '/research/' | relative_url }}">Explore our research <span aria-hidden="true">↗</span></a><a class="lscn-textlink" href="{{ '/join/' | relative_url }}">Join the lab →</a></div>
 </div>
-<figure class="lscn-hero-art"><h2 class="lscn-figure-title">The Neural and Computational Basis of Social Intelligence</h2><img src="{{ '/images/social-computation.svg' | relative_url }}" alt="Social interaction, neural population activity, and computational principles including multi-brain networks" width="520" height="460" loading="eager"></figure>
+<figure class="lscn-hero-art"><img src="{{ '/images/social-computation.svg' | relative_url }}" alt="Social interaction, neural population activity, and computational principles including multi-brain networks" width="520" height="500" loading="eager"></figure>
 </section>
 <section class="lscn-section">
 <p class="lscn-eyebrow">Our questions</p><h2>How does the brain make social life possible?</h2>
