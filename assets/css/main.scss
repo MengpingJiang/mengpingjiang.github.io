@@ -324,7 +324,6 @@ a:focus-visible { outline:3px solid #bd805d; outline-offset:4px; }
 @media(max-width:800px) { .lscn-hero { grid-template-columns:1fr; } }
 @media(max-width:650px) { .lscn-publication { grid-template-columns:1fr; gap:18px; } .lscn-publication figure { width:100%; max-width:400px; } }
 
-/* Brain-science navigation emblem; retain theme-toggle behavior. */
-#theme-toggle .nav-brain { width:32px; height:28px; display:block; color:var(--lab-accent); }
-#theme-toggle #theme-icon { display:none; }
-#theme-toggle a { cursor:pointer; display:flex; align-items:center; justify-content:center; }
+/* Simplified human brain emblem beside the lab name. */
+.lab-brain { width:55px; height:48px; color:var(--lab-accent); }
+@media(max-width:480px) { .lab-brain { width:44px; height:38px; } }
