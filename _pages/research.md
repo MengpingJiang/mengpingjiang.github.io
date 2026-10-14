@@ -7,7 +7,11 @@ author_profile: false
 
 We study how neural circuits and computations enable individuals to interact, coordinate, and learn in social environments. Cooperation provides an established foundation for our laboratory; group behavior and social learning expand our long-term research program. Across these themes, we aim to connect biological mechanisms with artificial social intelligence and social health.
 
+<nav class="lscn-topicnav" aria-label="Research themes"><a href="#cooperation">Cooperation</a><a href="#group-dynamics">Group dynamics</a><a href="#social-learning">Social learning</a><a href="#cross-system-intelligence">Biological + AI</a><a href="#social-dysfunction">Social dysfunction</a></nav>
+
 ## Core Research Themes
+
+<div class="lscn-research-art" id="cooperation"><img src="{{ '/images/research-cooperation.svg' | relative_url }}" alt="Two rodents coordinating their actions" width="440" height="300" loading="lazy"></div>
 
 ### 1. Cooperation & Social Coordination
 
@@ -22,6 +26,8 @@ Key questions include how partner reliability, rewards, and effort shape coopera
 - [Evolution and neural representation of mammalian cooperative behavior — *Cell Reports*, 2021](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01511-4)
 - [Neural basis of cooperative behavior in biological and artificial intelligence systems — *Science*, 2026](https://www.science.org/doi/10.1126/science.adw8151)
 
+<div class="lscn-research-art" id="group-dynamics"><img src="{{ '/images/research-group.svg' | relative_url }}" alt="A group of huddling rodents" width="440" height="300" loading="lazy"></div>
+
 ### 2. Group Behavior & Collective Dynamics
 
 **How do interactions among individuals generate organized group behavior?**
@@ -29,6 +35,8 @@ Key questions include how partner reliability, rewards, and effort shape coopera
 We aim to investigate the neural mechanisms of group formation and collective adaptation, using behaviors such as huddling as entry points. We are interested in how physiological needs, social preferences, and individual differences influence whether animals join, remain in, or leave a group.
 
 This direction connects individual neural activity with group dynamics. Future studies will examine how changes in one member's state affect the wider group, while distinguishing social influences from thermoregulation, physical contact, and shared environmental conditions.
+
+<div class="lscn-research-art" id="social-learning"><img src="{{ '/images/research-learning.svg' | relative_url }}" alt="An observer rodent and a demonstrator" width="440" height="300" loading="lazy"></div>
 
 ### 3. Social Learning & Adaptation
 
@@ -40,6 +48,8 @@ Our interests include observational learning, imitation, and the integration of 
 
 ## Cross-Cutting Directions
 
+<span id="cross-system-intelligence" class="lscn-anchor"></span>
+
 ### Social Intelligence Across Biological and Artificial Systems
 
 **Which principles of social computation generalize across animals and artificial agents?**
@@ -47,6 +57,8 @@ Our interests include observational learning, imitation, and the integration of 
 Building on our biological–AI cooperation research, we aim to study biological–biological, AI–AI, and biological–AI interaction within comparable tasks. We are interested in partner modeling, role formation, cooperative learning, and adaptation to unfamiliar partners.
 
 Future animal–AI studies may use embodied artificial partners, including robotic rodents, to control partner reliability, response timing, and interactive strategies. In parallel, we seek to test whether biological principles improve the adaptability and generalization of socially intelligent AI.
+
+<span id="social-dysfunction" class="lscn-anchor"></span>
 
 ### Social Dysfunction & Intervention
 
