@@ -11,7 +11,7 @@ author_profile: false
   <div class="pi-photo"><img src="{{ '/images/Mengping Jiang.jpeg' | relative_url }}" alt="Mengping Jiang" width="160" loading="lazy"></div>
   <div class="pi-info">
     <h3>Mengping Jiang, Ph.D. <span lang="zh-CN">蒋梦萍</span></h3>
-    <p><strong>Assistant Professor · Principal Investigator</strong><br>School of Biomedical Engineering<br>Shanghai Jiao Tong University · Shanghai, China</p>
+    <p><strong>Associate Professor · Principal Investigator</strong><br>School of Biomedical Engineering<br>Shanghai Jiao Tong University · Shanghai, China</p>
     <p class="profile-links"><a href="{{ '/cv/' | relative_url }}">Curriculum vitae</a> · <a href="https://scholar.google.com/citations?user=847mcQwAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://orcid.org/0000-0002-8875-7563">ORCID</a></p>
     <p><a href="mailto:mpjiang2021@163.com">mpjiang2021@163.com</a></p>
   </div>
@@ -29,10 +29,11 @@ Her first-author research includes cross-species studies of mammalian cooperatio
 
 ## Building the Team
 
-We welcome postdoctoral researchers, graduate students, and research assistants who want to understand social behavior through experiments, computation, or both.
+We welcome postdocs, master's and Ph.D. students, research assistants, and interns who want to understand social behavior through experiments, computation, or both.
 
 <div class="lscn-role-grid">
 <section><h3>Postdoctoral Researchers</h3><p>Develop independent projects in neural circuits, quantitative behavior, or computational neuroscience.</p><a href="{{ '/join/' | relative_url }}#postdoctoral-researchers">Explore opportunities →</a></section>
-<section><h3>Graduate Students</h3><p>Train across disciplines while investigating a focused question about social behavior.</p><a href="{{ '/join/' | relative_url }}#graduate-students">Explore opportunities →</a></section>
+<section><h3>Master's &amp; Ph.D. Students</h3><p>Train across disciplines while investigating a focused question about social behavior.</p><a href="{{ '/join/' | relative_url }}#graduate-students">Explore opportunities →</a></section>
 <section><h3>Research Assistants</h3><p>Help establish reliable behavioral, experimental, and analytical workflows.</p><a href="{{ '/join/' | relative_url }}#research-assistants">Explore opportunities →</a></section>
+<section><h3>Interns</h3><p>Gain research experience in social behavior, neuroscience, or computational approaches.</p><a href="{{ '/join/' | relative_url }}#interns">Explore opportunities →</a></section>
 </div>

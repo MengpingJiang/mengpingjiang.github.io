@@ -9,7 +9,7 @@ author_profile: false
 
 ## Explore the Social Brain With Us
 
-The **Laboratory for Social and Computational Neuroscience (LSCN)** at Shanghai Jiao Tong University's School of Biomedical Engineering welcomes inquiries from prospective **postdoctoral researchers, graduate students, and research assistants**.
+The **Laboratory for Social and Computational Neuroscience (LSCN)** at Shanghai Jiao Tong University's School of Biomedical Engineering welcomes inquiries from prospective **postdocs, master's and Ph.D. students, research assistants, and interns**.
 
 We bring together animal behavior, neural circuits, and computational approaches to study how individuals interact, cooperate, and learn from others.
 
@@ -19,11 +19,11 @@ We bring together animal behavior, neural circuits, and computational approaches
 
 ## Projects & Backgrounds
 
-Our established foundation is **cooperation and social coordination**. Developing directions include **group behavior and collective dynamics**, **social learning and adaptation**, **social intelligence across biological and artificial systems**, and **social dysfunction and intervention**.
+Our established foundation is **cooperation and social coordination**. Developing directions include **group behavior and collective dynamics**, **social learning and adaptation**, **social intelligence across biological and artificial systems**, and **social dysfunction in psychiatric disorders**.
 
-Possible project interests include partner prediction and cooperation, multi-animal group behavior, learning from observation, neural population dynamics, and biological–AI comparisons. Individual projects will be shaped by scientific fit, available resources, and the researcher's experience.
+Possible project interests include partner prediction and cooperation, multi-animal group behavior, learning from observation, neural population dynamics, and cooperation within and across biological and artificial systems. Individual projects will be shaped by scientific fit, available resources, and the researcher's experience.
 
-We welcome backgrounds in neuroscience, biomedical engineering, computer science, automation, psychology, and medicine. Applicants can contribute through experimental or computational expertise; experience in every technique is not expected.
+We welcome backgrounds in neuroscience, biology, medicine, biomedical engineering, computer science, automation, psychology, and other disciplines. Applicants can contribute through experimental or computational expertise; experience in every technique is not expected.
 
 [Read our research interests]({{ '/research/' | relative_url }})
 
@@ -43,9 +43,9 @@ Please describe your main scientific contribution to previous work, a question y
 
 <span id="graduate-students" class="lscn-anchor"></span>
 
-## Graduate Students
+## Master's & Ph.D. Students
 
-We welcome prospective students interested in asking precise questions about social behavior and developing experimental or computational skills. Careful reasoning, quantitative curiosity, and the ability to learn and collaborate are particularly valuable.
+We welcome prospective master's and Ph.D. students interested in asking precise questions about social behavior and developing experimental or computational skills. Careful reasoning, quantitative curiosity, and the ability to learn and collaborate are particularly valuable.
 
 In your inquiry, include your current program, expected graduation date, research or project experience, and the direction that interests you most.
 
@@ -62,6 +62,12 @@ In your inquiry, include your current program, expected graduation date, researc
 We welcome applicants who enjoy careful, reproducible work and want to help establish a new laboratory. Relevant experience may include animal care and training, behavioral experiments, surgery support, histology, equipment maintenance, programming, or data analysis.
 
 Please highlight the tasks you can perform independently, the skills you want to develop, your availability, and your expected start date.
+
+<span id="interns" class="lscn-anchor"></span>
+
+## Interns
+
+We welcome students interested in gaining research experience in social behavior, neuroscience, or computational approaches. Please describe your interests, relevant skills, availability, and expected duration of the internship.
 
 ## How to Apply
 
@@ -80,7 +86,7 @@ Selected papers, code, or a project portfolio can help illustrate your contribut
 
 ## Mentoring & Lab Culture
 
-We aim to provide a supportive environment with clear project goals, regular scientific discussion, and opportunities to develop independence. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
+We pursue important, exciting science and support each lab member's growth and career development. We aim to provide a supportive environment with clear project goals, regular scientific discussion, and opportunities to develop independence. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
 
 <div class="lscn-contact-panel" markdown="1">
 

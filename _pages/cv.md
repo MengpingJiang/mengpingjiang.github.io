@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Mengping Jiang, Ph.D. · 蒋梦萍**  
-Assistant Professor, School of Biomedical Engineering  
+Associate Professor, School of Biomedical Engineering  
 Shanghai Jiao Tong University, Shanghai, China  
 [mpjiang2021@163.com](mailto:mpjiang2021@163.com)
 
@@ -16,7 +16,7 @@ Shanghai Jiao Tong University, Shanghai, China
 
 ## Appointments
 
-- **2026–present:** Assistant Professor, School of Biomedical Engineering, Shanghai Jiao Tong University.
+- **2026–present:** Associate Professor, School of Biomedical Engineering, Shanghai Jiao Tong University.
 - **2022–2026:** Postdoctoral Scholar, Department of Neurobiology, University of California, Los Angeles. Supervisor: Weizhe Hong.
 
 ## Education

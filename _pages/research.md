@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 
-We study how neural circuits and computations enable individuals to interact, coordinate, and learn in social environments. Cooperation provides an established foundation for our laboratory; group behavior and social learning expand our long-term research program. Across these themes, we aim to connect biological mechanisms with artificial social intelligence and social health.
+We study how neural circuits and computations enable individuals to interact, coordinate, and learn in social environments. Cooperation provides an established foundation for our laboratory; group behavior and social learning expand our long-term research program. Across these themes, we aim to understand social intelligence across biological and artificial systems and investigate social deficits in psychiatric disorders.
 
 <nav class="lscn-topicnav" aria-label="Research themes"><a href="#cooperation">Cooperation</a><a href="#group-dynamics">Group dynamics</a><a href="#social-learning">Social learning</a><a href="#cross-system-intelligence">Biological + AI</a><a href="#social-dysfunction">Social dysfunction</a></nav>
 
@@ -58,9 +58,9 @@ Future animal–AI studies may use embodied artificial partners, including robot
 
 <span id="social-dysfunction" class="lscn-anchor"></span>
 
-### 5. Social Dysfunction & Intervention
+### 5. Social Dysfunction in Psychiatric Disorders
 
-**How do social abilities become disrupted, and which experiences or interventions support recovery?**
+**Which neural mechanisms underlie social deficits in psychiatric disorders, and how can they inform therapeutic strategies?**
 
 We aim to examine social dysfunction in neurodevelopmental and psychiatric disorders by separating changes in social motivation, partner information use, coordination, and observational learning.
 
@@ -68,10 +68,11 @@ A complementary interest is how social environments and positive interactions in
 
 ## Shared Approaches
 
-Across our research themes, we combine:
+We select complementary animal models to address specific questions about social behavior and its neural mechanisms. Across our research themes, we combine:
 
-- **Quantitative behavior:** freely interacting animals, cooperation tasks, and multi-animal tracking.
-- **Neural recording:** calcium imaging, fiber photometry, and large-scale electrophysiology.
+- **Advanced behavioral analysis:** freely interacting animals, cooperation tasks, and multi-animal tracking.
+- **Neural recording:** large-scale calcium imaging, fiber photometry, and in vitro and in vivo electrophysiology.
+- **Single-cell approaches:** investigating cellular diversity and molecular mechanisms underlying social behavior.
 - **Causal circuit analysis:** optogenetics and chemogenetics.
 - **Computational analysis:** behavioral models, neural population dynamics, and multi-agent reinforcement learning.
 
