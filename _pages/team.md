@@ -21,7 +21,7 @@ author_profile: false
 
 Mengping Jiang leads the Laboratory for Social and Computational Neuroscience (LSCN) at Shanghai Jiao Tong University. Her research examines the neural and computational mechanisms of social behavior, with a foundation in mammalian cooperation and an expanding interest in group behavior, social learning, and social intelligence across biological and artificial systems.
 
-She received her Ph.D. from the Institute of Neuroscience, Chinese Academy of Sciences, in 2021, and completed postdoctoral training with Weizhe Hong at the University of California, Los Angeles, from 2022 to 2026. Her research combines quantitative behavioral paradigms, neural recording, causal circuit manipulation, and computational modeling.
+She earned her bachelor's degree from Sichuan University, received her Ph.D. from the Institute of Neuroscience, Chinese Academy of Sciences, in 2021, and completed postdoctoral training with Weizhe Hong at the University of California, Los Angeles, from 2022 to 2026. Her research combines quantitative behavioral paradigms, neural recording, causal circuit manipulation, and computational modeling.
 
 Her first-author research includes cross-species studies of mammalian cooperation in *Cell Reports* (2021) and work linking cooperation in biological and artificial intelligence systems in *Science* (2026; co-first author). She has also contributed to studies of helping behavior and oxytocin-mediated reciprocity.
 
