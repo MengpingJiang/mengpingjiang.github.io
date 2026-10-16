@@ -27,6 +27,17 @@ Her first-author research includes cross-species studies of mammalian cooperatio
 
 [Explore publications]({{ '/publications/' | relative_url }}) · [Research interests]({{ '/research/' | relative_url }})
 
+## Lab Manager
+
+<div class="pi-profile">
+  <div class="pi-photo"><img src="{{ '/images/team/chen-yi.jpg' | relative_url }}" alt="Yi Chen 陈仪, Lab Manager" width="160" loading="lazy"></div>
+  <div class="pi-info">
+    <h3>Yi Chen <span lang="zh-CN">陈仪</span></h3>
+    <p><strong>Lab Manager <span lang="zh-CN">· 实验室管家</span></strong></p>
+    <p><a href="mailto:cy1452097677@163.com">cy1452097677@163.com</a></p>
+  </div>
+</div>
+
 ## Building the Team
 
 We welcome postdocs, master's and Ph.D. students, research assistants, and interns who want to understand social behavior through experiments, computation, or both.
