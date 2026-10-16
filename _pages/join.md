@@ -25,6 +25,8 @@ Possible project interests include partner prediction and cooperation, multi-ani
 
 We welcome backgrounds in neuroscience, biology, medicine, biomedical engineering, computer science, automation, psychology, and other disciplines. Applicants can contribute through experimental or computational expertise; experience in every technique is not expected.
 
+We value curiosity about neuroscience, initiative, and a thoughtful, constructive approach to research challenges.
+
 [Read our research interests]({{ '/research/' | relative_url }})
 
 <span id="postdoctoral-researchers" class="lscn-anchor"></span>
@@ -45,7 +47,7 @@ Please describe your main scientific contribution to previous work, a question y
 
 ## Master's & Ph.D. Students
 
-We welcome prospective master's and Ph.D. students interested in asking precise questions about social behavior and developing experimental or computational skills. Careful reasoning, quantitative curiosity, and the ability to learn and collaborate are particularly valuable.
+We welcome prospective master's and Ph.D. students interested in asking precise questions about social behavior and developing experimental or computational skills. We especially welcome students with a genuine interest in neuroscience, the initiative to ask questions and pursue ideas, and the willingness to learn through uncertainty and setbacks. Research rarely follows a straight path: we value careful troubleshooting, constructive responses to unexpected results, open communication, and seeking support when needed.
 
 In your inquiry, include your current program, expected graduation date, research or project experience, and the direction that interests you most.
 
@@ -86,7 +88,7 @@ Selected papers, code, or a project portfolio can help illustrate your contribut
 
 ## Mentoring & Lab Culture
 
-We pursue important, exciting science and support each lab member's growth and career development. We aim to provide a supportive environment with clear project goals, regular scientific discussion, and opportunities to develop independence. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
+We pursue important, exciting science and support each lab member's growth and career development. We provide ongoing mentorship, set realistic goals together, and encourage open discussion of research challenges. Through scientific discussion and opportunities to develop independence, we help members build confidence and pursue their own research questions. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
 
 <div class="lscn-contact-panel" markdown="1">
 
