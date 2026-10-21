@@ -11,6 +11,8 @@ We study how neural circuits and computations enable individuals to interact, co
 
 ## Research Interests
 
+Our research examines how individuals coordinate during interaction, how interactions give rise to group dynamics, and how social experience shapes subsequent behavior.
+
 <span id="cooperation" class="lscn-anchor"></span>
 
 ### 1. Cooperation & Social Coordination
