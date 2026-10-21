@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" role="img" aria-label="Two mice facing separate nose-poke ports in a coordinated behavioral task"><rect width="440" height="300" rx="22" fill="#edf4f1"/><g stroke="#397b71" stroke-width="2.5"><path d="M181 129v64m78-64v64" stroke-linecap="round"/><circle cx="181" cy="157" r="9" fill="#d8e8e1"/><circle cx="181" cy="157" r="4" fill="#214e55" stroke="none"/><circle cx="259" cy="157" r="9" fill="#d8e8e1"/><circle cx="259" cy="157" r="4" fill="#214e55" stroke="none"/></g><g transform="translate(128 155)"><g stroke="#214e55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-34 12 C-69 8-65 39-43 35" fill="none"/><path d="M-39 6 C-44-18-19-29 5-18 L29-5 Q43 2 28 12 L-3 23 Q-31 30-39 6Z" fill="#fbfaf5"/><circle cx="5" cy="-20" r="10" fill="#e2bfa9"/><circle cx="24" cy="-3" r="2.5" fill="#214e55" stroke="none"/><path d="M-14 22l-7 7m22-8 7 5" fill="none"/></g></g><g transform="translate(312 155) scale(-1 1)"><g stroke="#214e55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-34 12 C-69 8-65 39-43 35" fill="none"/><path d="M-39 6 C-44-18-19-29 5-18 L29-5 Q43 2 28 12 L-3 23 Q-31 30-39 6Z" fill="#fbfaf5"/><circle cx="5" cy="-20" r="10" fill="#e2bfa9"/><circle cx="24" cy="-3" r="2.5" fill="#214e55" stroke="none"/><path d="M-14 22l-7 7m22-8 7 5" fill="none"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 300" role="img" aria-label="Two mice facing each other and gently clasping their front paws">
+<rect width="440" height="300" rx="22" fill="#edf4f1"/>
+<defs><g id="mouse" stroke="#214e55" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-32 35C-77 30-78 67-52 62" fill="none"/>
+<path d="M-33 25C-46 3-35-19-15-19C-10-37 15-39 31-23L48-6Q61 3 45 13L28 19C29 38 17 57-6 57C-27 57-39 45-33 25Z" fill="#fbfaf5"/>
+<circle cx="5" cy="-29" r="12" fill="#e2bfa9"/>
+<circle cx="37" cy="-7" r="2.7" fill="#214e55" stroke="none"/>
+<path d="M-19 54l-11 7m30-6 11 6" fill="none"/>
+<path d="M16 29Q31 40 48 32L65 23" fill="none"/>
+</g></defs>
+<use xlink:href="#mouse" transform="translate(151 145)"/>
+<use xlink:href="#mouse" transform="translate(289 145) scale(-1 1)"/>
+<path d="M216 168q4-5 8 0l4 4q-4 6-8 3l-4-3q-3-2 0-4Z" fill="#e2bfa9" stroke="#214e55" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
