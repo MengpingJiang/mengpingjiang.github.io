@@ -3,6 +3,7 @@ layout: single
 title: "Mengping Jiang — Curriculum Vitae"
 permalink: /cv/
 author_profile: false
+sitemap: false
 redirect_from:
   - /resume
 ---
@@ -36,9 +37,5 @@ Neural and computational mechanisms of cooperation and social coordination; grou
 ## Publications
 
 See the [publication list]({{ '/publications/' | relative_url }}) for authors, publication details, and DOI links.
-
-## Archived CV
-
-[PDF CV — May 2026]({{ '/files/CV_Jiang_2026.05.08.pdf' | relative_url }}). This historical version predates her SJTU appointment; please refer to this page for current information.
 
 [Return to Team]({{ '/team/' | relative_url }})

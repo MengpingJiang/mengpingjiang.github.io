@@ -89,7 +89,8 @@ We pursue important, exciting science and support each lab member's growth and c
 For scientific collaborations and general inquiries, please contact **Mengping Jiang, Ph.D.**
 
 [mpjiang2021@163.com](mailto:mpjiang2021@163.com)  
-School of Biomedical Engineering · Shanghai Jiao Tong University  
+Biomedical Engineering Building  
+Xuhui Campus, Shanghai Jiao Tong University  
 Shanghai, China
 
 </div>

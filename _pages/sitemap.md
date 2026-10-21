@@ -11,6 +11,5 @@ author_profile: false
 - [Publications]({{ '/publications/' | relative_url }})
 - [News]({{ '/news/' | relative_url }})
 - [Join Us]({{ '/join/' | relative_url }})
-- [Mengping Jiang — Curriculum Vitae]({{ '/cv/' | relative_url }})
 
 [XML sitemap]({{ '/sitemap.xml' | relative_url }})
