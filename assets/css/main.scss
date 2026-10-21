@@ -343,3 +343,11 @@ a:focus-visible { outline:3px solid #bd805d; outline-offset:4px; }
 .lscn-role-grid p,.lscn-role-grid a { font-size:.75rem; line-height:1.65; }
 .lscn-page-intro h2 { margin-top:0; border:0; padding:0; }
 @media(max-width:800px) { .lscn-role-grid { grid-template-columns:1fr; } }
+
+/* Five research directions share equal card widths and visual hierarchy. */
+@media(min-width:801px) {
+ .lscn-five-directions { grid-template-columns:repeat(6,minmax(0,1fr)); }
+ .lscn-five-directions>.lscn-card { grid-column:span 2; }
+ .lscn-five-directions>.lscn-card:nth-child(4) { grid-column:2 / span 2; }
+ .lscn-five-directions>.lscn-card:nth-child(5) { grid-column:4 / span 2; }
+}
