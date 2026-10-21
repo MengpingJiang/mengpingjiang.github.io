@@ -82,6 +82,8 @@ Selected papers, code, or a project portfolio can help illustrate your contribut
 
 We pursue important, exciting science and support each lab member's growth and career development. We provide ongoing mentorship, set realistic goals together, and encourage open discussion of research challenges. Through scientific discussion and opportunities to develop independence, we help members build confidence and pursue their own research questions. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
 
+<span id="contact-collaboration" class="lscn-anchor"></span>
+
 <div class="lscn-contact-panel" markdown="1">
 
 ## Contact & Collaboration
