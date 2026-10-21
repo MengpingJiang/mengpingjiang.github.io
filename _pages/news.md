@@ -3,8 +3,6 @@ layout: archive
 title: "News"
 permalink: /news/
 author_profile: false
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}

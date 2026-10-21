@@ -1,22 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: false
-redirect_from:
-  - /resume
+sitemap: false
+redirect_to: /join/#contact-collaboration
 ---
-
-{% include base_path %}
-
-## Contact
-
-Mengping Jiang, Ph.D.
-
-Email: mpjiang2021@163.com
-
-Google Scholar
-
-ORCID
-
-GitHub

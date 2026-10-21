@@ -168,6 +168,17 @@ include:
   - _pages
   - files
 exclude:
+  - "files/CV_Jiang_2026.05.08.pdf"
+  - "files/bibtex1.bib"
+  - "files/paper1.pdf"
+  - "files/paper2.pdf"
+  - "files/paper3.pdf"
+  - "files/slides1.pdf"
+  - "files/slides2.pdf"
+  - "files/slides3.pdf"
+  - "talkmap"
+  - "_pages/cv.md"
+  - "_pages/terms.md"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

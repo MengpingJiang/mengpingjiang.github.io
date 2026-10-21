@@ -72,7 +72,7 @@ Please include:
 1. **CV** with education, research experience, relevant skills, and publications or projects.
 2. **Statement of interest:** postdoctoral applicants should include a research statement of approximately one page describing previous contributions, research interests, and questions they would like to pursue. Prospective students, research assistants, and interns may include a brief introduction in the email describing their motivation, relevant experience, and skills they hope to develop; a separate research statement is not required.
 3. **Availability:** expected graduation date, preferred start date, and intended position.
-4. **Reference contacts:** postdoctoral applicants and applicants seeking Ph.D. admission after completing a master's degree should provide contact information for **three referees**. Research assistant applicants and other prospective graduate students should provide contact information for **at least one referee**. For interns, references are not required with the initial inquiry but may be requested later.
+4. **Reference contacts:** postdoctoral applicants and Ph.D. applicants who hold or expect to complete a master's degree before enrollment should provide contact information for **three referees**. Research assistant applicants and other prospective graduate students should provide contact information for **at least one referee**. For interns, references are not required with the initial inquiry but may be requested later.
 
    Please include each referee's name, affiliation, relationship to you, and email address. Referees may be research supervisors, project mentors, or work supervisors familiar with your work. **Recommendation letters are not required at the initial application stage.**
 
