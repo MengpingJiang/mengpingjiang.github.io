@@ -72,7 +72,9 @@ Please include:
 1. **CV** with education, research experience, relevant skills, and publications or projects.
 2. **Brief research statement** describing your experience, interests, and connection to the lab; approximately one page is sufficient.
 3. **Availability:** expected graduation date, preferred start date, and intended position.
-4. **Reference contacts:** three for postdoctoral applicants; include available contacts for student and research assistant inquiries.
+4. **Reference contacts:** postdoctoral applicants and applicants seeking Ph.D. admission after completing a master's degree should provide contact information for **three referees**. Research assistant applicants and other prospective graduate students should provide contact information for **at least one referee**. For interns, references are not required with the initial inquiry but may be requested later.
+
+   Please include each referee's name, affiliation, relationship to you, and email address. Referees may be research supervisors, project mentors, or work supervisors familiar with your work. **Recommendation letters are not required at the initial application stage.**
 
 Selected papers, code, or a project portfolio can help illustrate your contribution. Please describe your role in collaborative work.
 
