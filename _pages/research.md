@@ -5,13 +5,11 @@ permalink: /research/
 author_profile: false
 ---
 
-We study how neural circuits and computations enable individuals to interact, coordinate, and learn in social environments. Cooperation provides an established foundation for our laboratory; group behavior and social learning expand our long-term research program. Across these themes, we aim to understand social intelligence across biological and artificial systems and investigate social deficits in psychiatric disorders.
+We study how neural circuits and computations enable individuals to interact, coordinate, and learn in social environments. Our research connects cooperation and social coordination, group behavior and collective dynamics, and social learning and adaptation. We also explore how biological insights can inform socially intelligent AI, how artificial agents can help reveal mechanisms of social behavior, and how these mechanisms are disrupted in psychiatric disorders.
 
 <nav class="lscn-topicnav" aria-label="Research themes"><a href="#cooperation">Cooperation</a><a href="#group-dynamics">Group dynamics</a><a href="#social-learning">Social learning</a><a href="#cross-system-intelligence">Biological + AI</a><a href="#social-dysfunction">Social dysfunction</a></nav>
 
 ## Research Interests
-
-Our research examines how individuals coordinate during interaction, how interactions give rise to group dynamics, and how social experience shapes subsequent behavior.
 
 <span id="cooperation" class="lscn-anchor"></span>
 
