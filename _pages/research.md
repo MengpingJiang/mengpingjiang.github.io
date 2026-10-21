@@ -19,9 +19,9 @@ Our research examines how individuals coordinate during interaction, how interac
 
 **How do individuals use partner information to achieve shared goals?**
 
-Our work has established behavioral paradigms for studying mammalian cooperation and investigated its cortical representations and circuit mechanisms. Building on this foundation, we investigate how individuals evaluate cooperation relative to independent action, predict a partner's behavior, and adjust their actions in real time.
+Building on our research in mammalian cooperation, we investigate how individuals use social information to make cooperative decisions and coordinate their actions with others.
 
-Key questions include how partner reliability, rewards, and effort shape cooperation; how initiating and following roles emerge; and how distributed brain networks support flexible coordination.
+We seek to understand the neural representations, circuit mechanisms, and computational principles that support flexible cooperation and social coordination.
 
 **Research foundation**
 
@@ -34,9 +34,9 @@ Key questions include how partner reliability, rewards, and effort shape coopera
 
 **How do interactions among individuals generate organized group behavior?**
 
-We aim to investigate the neural mechanisms of group formation and collective adaptation, using behaviors such as huddling as entry points. We are interested in how physiological needs, social preferences, and individual differences influence whether animals join, remain in, or leave a group.
+We investigate how interactions among individuals give rise to group organization and collective behavior, and how groups adapt to changing social and environmental conditions.
 
-This direction connects individual neural activity with group dynamics. Future studies will examine how changes in one member's state affect the wider group, while distinguishing social influences from thermoregulation, physical contact, and shared environmental conditions.
+Our goal is to connect individual behavior and neural processes with the dynamics of the wider group, revealing principles that link individual and collective levels of social organization.
 
 <span id="social-learning" class="lscn-anchor"></span>
 
@@ -44,9 +44,9 @@ This direction connects individual neural activity with group dynamics. Future s
 
 **How do individuals learn from others and adapt to changing social environments?**
 
-We aim to understand how observing another individual's actions and outcomes changes learning, strategy selection, and subsequent interaction. A key question is whether observing experienced partners helps animals acquire cooperative strategies and transfer them to unfamiliar partners or tasks.
+We investigate how individuals learn from others and integrate social information with their own experience to guide behavior.
 
-Our interests include observational learning, imitation, and the integration of personal experience with social information. We seek to distinguish learning about actions, outcomes, and rules, and identify the neural computations that support each process.
+We seek to understand the neural and computational mechanisms of social learning, and how these processes support behavioral flexibility and adaptation across social contexts.
 
 <span id="cross-system-intelligence" class="lscn-anchor"></span>
 
@@ -54,9 +54,9 @@ Our interests include observational learning, imitation, and the integration of 
 
 **Which principles of social computation generalize across animals and artificial agents?**
 
-Building on our biological–AI cooperation research, we aim to study biological–biological, AI–AI, and biological–AI interaction within comparable tasks. We are interested in partner modeling, role formation, cooperative learning, and adaptation to unfamiliar partners.
+We investigate social interaction and cooperation within and across biological and artificial systems, seeking principles that connect natural and artificial social intelligence.
 
-Future animal–AI studies may use embodied artificial partners, including robotic rodents, to control partner reliability, response timing, and interactive strategies. In parallel, we seek to test whether biological principles improve the adaptability and generalization of socially intelligent AI.
+This direction is bidirectional: biological insights can inform socially intelligent AI, while controllable artificial partners can help reveal mechanisms of social behavior in biological systems.
 
 <span id="social-dysfunction" class="lscn-anchor"></span>
 
@@ -64,9 +64,9 @@ Future animal–AI studies may use embodied artificial partners, including robot
 
 **Which neural mechanisms underlie social deficits in psychiatric disorders, and how can they inform therapeutic strategies?**
 
-We aim to examine social dysfunction in neurodevelopmental and psychiatric disorders by separating changes in social motivation, partner information use, coordination, and observational learning.
+We investigate the neural mechanisms underlying social deficits in neurodevelopmental and psychiatric disorders.
 
-A complementary interest is how social environments and positive interactions influence stress susceptibility and depression-related behavioral changes. Our long-term goal is to identify mechanisms and evaluate targeted behavioral or circuit interventions, including their persistence and transfer across social contexts.
+By linking changes in social behavior with their biological and computational foundations, we aim to identify mechanisms of dysfunction and inform the exploration of potential therapeutic strategies.
 
 ## Shared Approaches
 
