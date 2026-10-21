@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" role="img"><rect width="440" height="300" fill="#edf4f1"/><g stroke="#397b71" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M133 211c-26 9-47-8-45-29-25-8-27-38-9-51-9-23 8-47 31-44 8-22 35-22 45-6 25-5 44 19 33 40 19 18 15 44-7 54 0 24-23 40-48 36Z" fill="#d8e8e1"/><path d="M133 89v112m-31-83q27-8 31 17m-37 32q27-14 37 4m27-61q-25 10-27 28m31 26q-23-10-31 9" fill="none"/><rect x="274" y="90" width="99" height="115" rx="22" fill="#fbfaf5"/><path d="m297 119 50 0m-50 0 25 55 25-55m-50 55 50 0m-25-55v55" fill="none"/><g fill="#e2bfa9"><circle cx="297" cy="119" r="7"/><circle cx="347" cy="119" r="7"/><circle cx="322" cy="174" r="7"/></g><path d="M202 133h48m-9-9 9 9-9 9m9 27h-48m9-9-9 9 9 9" fill="none"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 300" role="img" aria-label="A biological mouse interacting with a robotic mouse"><rect width="440" height="300" rx="22" fill="#edf4f1"/>
+<g stroke="#214e55" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(128 155)">
+<path d="M-33 25C-80 20-78 60-54 54" fill="none"/><path d="M-33 25C-46 3-35-19-15-19C-10-37 15-39 31-23L48-6Q61 3 45 13L28 19C29 38 17 57-6 57C-27 57-39 45-33 25Z" fill="#fbfaf5"/><circle cx="5" cy="-29" r="12" fill="#e2bfa9"/><circle cx="37" cy="-7" r="2.7" fill="#214e55" stroke="none"/><path d="M-19 54l-11 7m30-6 11 6M16 29q15 8 29-2" fill="none"/>
+</g>
+<g transform="translate(315 155) scale(-1 1)">
+<path d="M-34 28h-17l-13 16-14-4" fill="none"/><path d="M-34 24-34-5Q-34-20-16-20L2-32 27-25 49-7Q60 3 45 14L28 20 22 52-22 52Z" fill="#d8e8e1"/><circle cx="4" cy="-29" r="12" fill="#fbfaf5"/><circle cx="4" cy="-29" r="5" fill="#e2bfa9"/><rect x="29" y="-11" width="12" height="7" rx="2" fill="#397b71" stroke="none"/><path d="m-23 53-7 9m43-9 7 9M14 29l17 5 12-8M-13 0v19m-9-10h18" fill="none"/><rect x="-22" y="-1" width="26" height="23" rx="4" fill="#fbfaf5"/><path d="M-9-1v-6m-13 17h-6m32 0h6" fill="none"/>
+</g>
+<path d="M184 120Q219 94 252 120m-11-13 11 13-17 1M252 185Q219 209 184 185m16 0-16 0 8 13" fill="none" stroke="#397b71"/>
+</g></svg>
