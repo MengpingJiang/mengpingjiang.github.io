@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 440 300" role="img" aria-label="Two mice facing each other and gently clasping their front paws">
-<rect width="440" height="300" rx="22" fill="#edf4f1"/>
+<rect width="440" height="300" rx="22" fill="#edf4f1"/><g transform="translate(0 -6)">
 <defs><g id="mouse" stroke="#214e55" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
 <path d="M-32 35C-77 30-78 67-52 62" fill="none"/>
 <path d="M-33 25C-46 3-35-19-15-19C-10-37 15-39 31-23L48-6Q61 3 45 13L28 19C29 38 17 57-6 57C-27 57-39 45-33 25Z" fill="#fbfaf5"/>
@@ -11,4 +11,4 @@
 <use xlink:href="#mouse" transform="translate(151 145)"/>
 <use xlink:href="#mouse" transform="translate(289 145) scale(-1 1)"/>
 <path d="M216 168q4-5 8 0l4 4q-4 6-8 3l-4-3q-3-2 0-4Z" fill="#e2bfa9" stroke="#214e55" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+</g></svg>
