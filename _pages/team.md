@@ -42,9 +42,4 @@ Her first-author research includes cross-species studies of mammalian cooperatio
 
 We welcome postdocs, master's and Ph.D. students, research assistants, and interns who want to understand social behavior through experiments, computation, or both.
 
-<div class="lscn-role-grid">
-<section><h3>Postdoctoral Researchers</h3><p>Develop independent projects in neural circuits, quantitative behavior, or computational neuroscience.</p><a href="{{ '/join/' | relative_url }}#postdoctoral-researchers">Explore opportunities →</a></section>
-<section><h3>Master's &amp; Ph.D. Students</h3><p>Train across disciplines while investigating a focused question about social behavior.</p><a href="{{ '/join/' | relative_url }}#graduate-students">Explore opportunities →</a></section>
-<section><h3>Research Assistants</h3><p>Help establish reliable behavioral, experimental, and analytical workflows.</p><a href="{{ '/join/' | relative_url }}#research-assistants">Explore opportunities →</a></section>
-<section><h3>Interns</h3><p>Gain research experience in social behavior, neuroscience, or computational approaches.</p><a href="{{ '/join/' | relative_url }}#interns">Explore opportunities →</a></section>
-</div>
+<p><a class="lscn-button" href="{{ '/join/' | relative_url }}">Explore open positions →</a></p>
