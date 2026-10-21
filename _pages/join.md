@@ -7,27 +7,17 @@ author_profile: false
 
 <div class="lscn-page-intro" markdown="1">
 
-## Explore the Social Brain With Us
+## Join Our Team
 
 The **Laboratory for Social and Computational Neuroscience (LSCN)** at Shanghai Jiao Tong University's School of Biomedical Engineering welcomes inquiries from prospective **postdocs, master's and Ph.D. students, research assistants, and interns**.
-
-We bring together animal behavior, neural circuits, and computational approaches to study how individuals interact, cooperate, and learn from others.
-
-[Email Mengping Jiang](mailto:mpjiang2021@163.com)
-
-</div>
-
-## Projects & Backgrounds
-
-Our established foundation is **cooperation and social coordination**. Developing directions include **group behavior and collective dynamics**, **social learning and adaptation**, **social intelligence across biological and artificial systems**, and **social dysfunction in psychiatric disorders**.
-
-Possible project interests include partner prediction and cooperation, multi-animal group behavior, learning from observation, neural population dynamics, and cooperation within and across biological and artificial systems. Individual projects will be shaped by scientific fit, available resources, and the researcher's experience.
 
 We welcome backgrounds in neuroscience, biology, medicine, biomedical engineering, computer science, automation, psychology, and other disciplines. Applicants can contribute through experimental or computational expertise; experience in every technique is not expected.
 
 We value curiosity about neuroscience, initiative, and a thoughtful, constructive approach to research challenges.
 
-[Read our research interests]({{ '/research/' | relative_url }})
+[Email Mengping Jiang](mailto:mpjiang2021@163.com)
+
+</div>
 
 <span id="postdoctoral-researchers" class="lscn-anchor"></span>
 
