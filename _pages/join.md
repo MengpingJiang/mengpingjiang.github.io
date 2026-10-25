@@ -13,7 +13,7 @@ The **Laboratory for Social and Computational Neuroscience (LSCN)** at Shanghai 
 
 We welcome backgrounds in neuroscience, biology, medicine, biomedical engineering, computer science, automation, psychology, and other disciplines. Applicants can contribute through experimental or computational expertise; experience in every technique is not expected.
 
-We value curiosity about neuroscience, initiative, and a thoughtful, constructive approach to research challenges.
+We value a genuine interest in neuroscience and the self-motivation to ask questions and pursue them. We look for people who actively learn new knowledge and skills to address scientific questions, work patiently and carefully, and take initiative in identifying and solving problems.
 
 [Email Mengping Jiang](mailto:mpjiang2021@163.com)
 
@@ -37,7 +37,7 @@ Please describe your main scientific contribution to previous work, a question y
 
 ## Master's & Ph.D. Students
 
-We welcome prospective master's and Ph.D. students interested in asking precise questions about social behavior and developing experimental or computational skills. We especially welcome students with a genuine interest in neuroscience, the initiative to ask questions and pursue ideas, and the willingness to learn through uncertainty and setbacks. Research rarely follows a straight path: we value careful troubleshooting, constructive responses to unexpected results, open communication, and seeking support when needed.
+We welcome prospective master's and Ph.D. students who want to investigate social behavior and build experimental or computational skills. We value curiosity, a willingness to learn, and the potential to grow as a researcher.
 
 In your inquiry, include your current program, expected graduation date, research or project experience, and the direction that interests you most.
 
@@ -80,7 +80,9 @@ Selected papers, code, or a project portfolio can help illustrate your contribut
 
 ## Mentoring & Lab Culture
 
-We pursue important, exciting science and support each lab member's growth and career development. We provide ongoing mentorship, set realistic goals together, and encourage open discussion of research challenges. Through scientific discussion and opportunities to develop independence, we help members build confidence and pursue their own research questions. We value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
+We pursue important, exciting science and support each lab member's growth and career development. We provide ongoing mentorship and feedback, and discuss scientific questions, research plans, realistic goals, and career aspirations together. Our support is tailored to each member's stage of training, helping students build a strong foundation and develop independent thinking, and supporting postdocs in shaping their own research directions and strengthening their scientific autonomy.
+
+Research does not always go as planned. We value the resilience to reassess a problem, adapt an approach, and continue exploring, alongside the openness to communicate uncertainty and seek support. Members should feel comfortable saying "I don't yet understand" or "I need help." We work through research challenges together and value rigorous experiments, transparent analysis, thoughtful collaboration, and respectful communication.
 
 <span id="contact-collaboration" class="lscn-anchor"></span>
 
