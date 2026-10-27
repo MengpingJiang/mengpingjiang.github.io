@@ -13,7 +13,7 @@ author_profile: false
     <h3>Mengping Jiang, Ph.D. <span lang="zh-CN">蒋梦萍</span></h3>
     <p><strong>Associate Professor · Principal Investigator</strong><br>School of Biomedical Engineering<br>Shanghai Jiao Tong University · Shanghai, China</p>
     <p class="profile-links"><a href="https://scholar.google.com/citations?user=847mcQwAAAAJ&amp;hl=en">Google Scholar</a> · <a href="https://orcid.org/0000-0002-8875-7563">ORCID</a></p>
-    <p><a href="mailto:mpjiang2021@163.com">mpjiang2021@163.com</a></p>
+    <p><a href="mailto:mengpingjiang@sjtu.edu.cn">mengpingjiang@sjtu.edu.cn</a></p>
   </div>
 </div>
 

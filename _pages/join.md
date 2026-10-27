@@ -15,7 +15,7 @@ We welcome backgrounds in neuroscience, biology, medicine, biomedical engineerin
 
 We value a genuine interest in neuroscience and the self-motivation to ask questions and pursue them. We look for people who actively learn new knowledge and skills to address scientific questions, work patiently and carefully, and take initiative in identifying and solving problems.
 
-[Email Mengping Jiang](mailto:mpjiang2021@163.com)
+[Email Mengping Jiang](mailto:mengpingjiang@sjtu.edu.cn)
 
 </div>
 
@@ -63,7 +63,7 @@ We welcome students interested in gaining research experience in social behavior
 
 ## How to Apply
 
-Send your inquiry to **[mpjiang2021@163.com](mailto:mpjiang2021@163.com)**.
+Send your inquiry to **[mengpingjiang@sjtu.edu.cn](mailto:mengpingjiang@sjtu.edu.cn)**.
 
 Use the subject line **LSCN Application — Position — Your Name**.
 
@@ -92,7 +92,7 @@ Research does not always go as planned. We value the resilience to reassess a pr
 
 For scientific collaborations and general inquiries, please contact **Mengping Jiang, Ph.D.**
 
-[mpjiang2021@163.com](mailto:mpjiang2021@163.com)  
+[mengpingjiang@sjtu.edu.cn](mailto:mengpingjiang@sjtu.edu.cn)  
 Biomedical Engineering Building  
 Xuhui Campus, Shanghai Jiao Tong University  
 Shanghai, China

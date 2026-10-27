@@ -11,7 +11,7 @@ redirect_from:
 **Mengping Jiang, Ph.D. · 蒋梦萍**  
 Associate Professor, School of Biomedical Engineering  
 Shanghai Jiao Tong University, Shanghai, China  
-[mpjiang2021@163.com](mailto:mpjiang2021@163.com)
+[mengpingjiang@sjtu.edu.cn](mailto:mengpingjiang@sjtu.edu.cn)
 
 [Google Scholar](https://scholar.google.com/citations?user=847mcQwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8875-7563)
 
